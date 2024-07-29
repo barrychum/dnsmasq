@@ -1,0 +1,6 @@
+**
+!envreplace.sh
+!healthcheck.sh
+!dnsmasq.conf.tmpl
+!default.env
+!keepalived.conf
